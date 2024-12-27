@@ -1,2 +1,1 @@
-# vob-game
-Vassals of Blossom
+![image](src/img/logo.png)
